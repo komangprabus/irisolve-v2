@@ -1,0 +1,10 @@
+[
+  {"id":1,"nama":"Programming · baris 18","divisi":"Programming","pic":["Hendra"],"start":"2026-09-01","deadline":"2026-09-14","status":"Sedang dikerjakan"},
+  {"id":2,"nama":"Programming · baris 19","divisi":"Programming","pic":["Ijul"],"start":"2026-09-10","deadline":"2026-09-24","status":"Belum"},
+  {"id":3,"nama":"Programming · baris 29","divisi":"Programming","pic":["Brenanda","Ijul"],"start":"2026-09-10","deadline":"2026-10-10","status":"Sedang dikerjakan"},
+  {"id":4,"nama":"Mekanik · baris 14","divisi":"Mekanik","pic":["Galuh"],"start":"2026-09-01","deadline":"2026-09-22","status":"Revisi"},
+  {"id":5,"nama":"Mekanik · baris 30","divisi":"Mekanik","pic":["Galuh"],"start":"2026-09-02","deadline":"2026-09-15","status":"Selesai"},
+  {"id":6,"nama":"Electrical · baris 23","divisi":"Electrical","pic":["Andika","Gaga"],"start":"2026-09-20","deadline":"2026-10-30","status":"Sedang dikerjakan"},
+  {"id":7,"nama":"AdFin · baris 28","divisi":"AdFin","pic":["Deaka","Violetta"],"start":"2026-11-01","deadline":"2026-11-28","status":"Sedang dikerjakan"},
+  {"id":8,"nama":"Programming · baris 22","divisi":"Programming","pic":["Aslam"],"start":null,"deadline":null,"status":"Belum"}
+]
